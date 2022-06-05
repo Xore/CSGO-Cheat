@@ -1,0 +1,3 @@
+-Config von der login.php trennen
+-Offsets vielleich übergeben
+-vielleicht die Funktionen in der EXE crypten und den Schlüssel hier senden?
